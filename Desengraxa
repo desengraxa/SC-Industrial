@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Meu Site</title>
+</head>
+<body style="font-family: Arial; text-align: center; margin-top: 50px;">
+  <h1>Minha Empresa</h1>
+  <p>Produtos de limpeza profissional</p>
+
+  <h2>Contato</h2>
+  <p>WhatsApp: (16) 99633-2562</p>
+</body>
+</html>
